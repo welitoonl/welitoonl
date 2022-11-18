@@ -1,5 +1,5 @@
 ### Hi curious soul 👾
-#### I'm Weliton or WL 🤖 software engineer at Nuvemshop / Tiendanube 
+#### I'm Weliton or Well 🤖 software engineer at Nuvemshop / Tiendanube 
 
 ##### About Me
 
