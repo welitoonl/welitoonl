@@ -3,10 +3,11 @@
 
 ##### About Me
 
-- ❤️ I <b>love</b> web development
+- ❤️ I <b>love</b> front-end development
+- 🧑🏻‍💻 But I work with back-end
 - 🚀 I have been a web developer for over 3 years and <b>to infinity and beyond</b>
-- 🤓 <b>Javascript, Javascript, Javascript, Javascript</b> and a little PHP 👀
-- 📘 I am currently learning about <b>node.js, typescript, nest, kafka and kubernetes</b>
+- 🤓 <b>JavaScript</b> Enthusiast
+- 📘 I am currently learning about <b>Nest.js, Reactm React Native, kafka and kubernetes</b>
 - 🏋️ Non-practicing bodybuilder
 - 🍫 Give me white chocolate
   
