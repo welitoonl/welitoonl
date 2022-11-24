@@ -7,7 +7,7 @@
 - 🧑🏻‍💻 But I work with back-end
 - 🚀 I have been a web developer for over 3 years and <b>to infinity and beyond</b>
 - 🤓 <b>JavaScript</b> Enthusiast
-- 📘 I am currently learning about <b>Nest.js, Reactm React Native, kafka and kubernetes</b>
+- 📘 I am currently learning about <b>Nest.js, React, React Native, kafka and kubernetes</b>
 - 🏋️ Non-practicing bodybuilder
 - 🍫 Give me white chocolate
   
