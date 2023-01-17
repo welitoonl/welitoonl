@@ -13,8 +13,8 @@
 - ☠️ I'm sorry but my github is not a portfolio, I use for work
   
 <div align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=welitoonl&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=welitoonl&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&layout=compact" />
+  <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=welitoonl&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" />
+  <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=welitoonl&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&layout=compact" />
 </div>
 
 <div style="display: inline_block"><br>
