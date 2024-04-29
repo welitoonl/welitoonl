@@ -5,7 +5,7 @@
 
 - ❤️ I <b>love</b> front-end development
 - 🧑🏻‍💻 But I work with back-end
-- 🚀 I have been a web developer for over 3 years and <b>to infinity and beyond</b>
+- 🚀 I have been a web developer for over 4 years and <b>to infinity and beyond</b>
 - 🤓 <b>JavaScript</b> Enthusiast
 - 📘 I am currently learning about <b>Nest.js, React, React Native, kafka and kubernetes</b>
 - 🏋️ Non-practicing bodybuilder
